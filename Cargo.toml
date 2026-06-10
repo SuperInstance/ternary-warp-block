@@ -1,4 +1,6 @@
 [package]
+description = "ternary-warp-block - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-warp-block"
 name = "ternary-warp-block"
 version = "0.1.0"
 edition = "2024"
